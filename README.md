@@ -32,8 +32,10 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Ashu-Az/mern-headsup-frontend.git
    cd mern-headsup-frontend
 2. Install dependencies:
+   ```bash
    npm install
-3. Start the development server:
+4. Start the development server:
+   ```bash
    npm start
 
 
